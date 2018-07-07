@@ -1,0 +1,15 @@
+.card{
+  height: 200px;
+  width: 200px;
+  border: 2px solid purple;
+  margin: 20px;
+  float: left;
+}
+
+.blue.selected, .blue.matched{
+  background: blue;
+}
+
+.red.selected, .red.matched{
+  background: red;
+}
